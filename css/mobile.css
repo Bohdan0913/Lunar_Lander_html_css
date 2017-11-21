@@ -1,0 +1,82 @@
+
+body,html{height:100%;padding:0px;margin:0px}
+body{font-size:3vw}
+
+.a{background-color:none;}
+
+.c{background-color:none;}
+
+.a,.b,.c{
+	display:inline-block;
+width:33.33%;
+float:left;}
+
+#menu{
+	    float: right;
+		margin:5%;
+}
+.a{
+	font-size:15px;
+	color:#32d4dc;
+}
+#velesc{
+	display:none;
+}
+#velmob{
+	display:inline;
+}
+.c li a:hover:not(.active) {
+color: #bb91f3;
+}
+
+.b{
+	font-size:60px;
+	color:white;
+	margin:auto;
+	width:33.33%;
+	height:100%
+}
+
+.c{
+	font-size:15px;
+	color:white;
+}
+#menu li{
+	display:block;
+	display:inline;
+	margin:6px;
+}
+
+body{	
+background:url(../imagenes/fondo.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+
+#nave{
+	text-align:center;
+position:fixed;
+top:5%;
+width:100%;
+height:20%;
+z-index:1;
+}
+
+.c{
+	position:relative;
+	z-index:2
+}
+.d{
+	position:relative;
+	z-index:5;
+}
+.fuego{
+	height:20%
+}
+img{
+    display: block;
+    margin: auto;
+    height: 100%;
+}
+
+#nave img{height:100%;}
+#cpanel{}
