@@ -2,22 +2,17 @@ body,html{height:100%;padding:0px;margin:0px}
 body{font-size:3vw}
 
 .c{
-	font-size:34px;
+	font-size:30px;
 	color:#32d4dc;
 	text-align:center;
 }
 
 body,html{height:100%;padding:0px;margin:0px}
-body{font-size:3vw}
+body{font-size:3vw;background:url(../imagenes/fondo.jpg) no-repeat center center fixed;
+background-size: cover;}
 
-
-
-#menu{
-	    float: right;
-		margin:5%;
-}
 .a{
-	font-size:30px;
+	font-size:3vw;
 	color:#12f7ad;
 	margin-left: auto;
     margin-right: auto;
@@ -28,65 +23,17 @@ body{font-size:3vw}
 }
 .a p{
 	text-align:center
-	
-
 }
+
 .c a:hover:not(.active) {
 color: #091e1f;
 
 }
-#velmob{
-	display:none;
-}
-#velesc{
-	
-}
-.b{
-	font-size:60px;
-	color:white;
-	margin:auto;
-	width:33.33%;
-	height:100%
-}
+
 p{
 	font-size:20px;
 }
 .c a{
 	color:#841b1b;
 }
-#menu li{
-	display:block;
-	display:inline;
-	margin:6px;
-}
-.fuego{
-	height:20%
-}
-body{	
-background:url(../imagenes/fondo.jpg) no-repeat center center fixed;
-background-size: cover;
-}
 
-#nave{
-	text-align:center;
-position:fixed;
-top:5%;
-width:100%;
-height:20%;
-z-index:1;
-}
-
-.d{
-	z-index:5;
-}
-
-img{
-    display: block;
-    margin: auto;
-    height: 100%;
-}
-
-#nave img{height:100%;}
-#cpanel{
-	list-style:none;
-}

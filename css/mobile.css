@@ -19,10 +19,10 @@ float:left;}
 	font-size:15px;
 	color:#32d4dc;
 }
-#velesc{
+.velesc{
 	display:none;
 }
-#velmob{
+.velmob{
 	display:inline;
 }
 .c li a:hover:not(.active) {

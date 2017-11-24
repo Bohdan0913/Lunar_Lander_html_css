@@ -20,12 +20,13 @@ float:left;}
 .c li a:hover:not(.active) {
 color: #bb91f3;
 }
-#velmob{
+.velmob{
 	display:none;
 }
-#velesc{
-	
+
+.velesc{
 }
+
 .b{
 	font-size:60px;
 	color:white;
