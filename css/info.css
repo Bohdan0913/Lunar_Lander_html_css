@@ -8,7 +8,7 @@ body{font-size:3vw}
 }
 
 body,html{height:100%;padding:0px;margin:0px}
-body{font-size:3vw;background:url(../imagenes/fondo.jpg) no-repeat center center fixed;
+body{font-size:3vw;background:url(../img/fondo.jpg) no-repeat center center fixed;
 background-size: cover;}
 
 .a{
